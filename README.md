@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hello, I'm François 👋
+
+I am a doctoral researcher in the lab BioSP in Avignon in INRAE. My work primarily focuses on describing and making efficient sampling designs for plant disease surveillance.
+
+## 📫 How to Reach Me
+
+- Email: [francois.dalayer@inrae.fr](mailto:francois.dalayer@inrae.fr)
+- LinkedIn: [https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/fran%C3%A7ois-d-alayer/)
 
 <!--
 **UbiquePrimus/UbiquePrimus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
